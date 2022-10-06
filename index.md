@@ -26,41 +26,63 @@ Earthquake episodes trigger some immediate effects such as ground shaking, surfa
 ## DO's and DONT's
 <img src="https://user-images.githubusercontent.com/99879325/194294232-ae2fd04e-0bf4-4619-918d-6a8039f8c68a.jpg" width="670" /> 
   
-  ### What to do before an earthquake
+### What to do before an earthquake
+
 - Make sure you have a fire extinguisher, first aid kit, a battery-powered radio, a flashlight, and extra batteries at home.
+
 - Learn first aid. 
+
 - Learn how to turn off the gas, water, and electricity.
+
 - Make up a plan of where to meet your family after an earthquake. 
-- Anchor heavy furniture, cupboards, and appliances to the walls or floor 
+
+- Anchor heavy furniture, cupboards, and appliances to the walls or floor. 
+
 - Learn the earthquake plan at your school or workplace.
   
   ### What to do during an earthquake
   
 - **Stay calm!** If you're indoors, stay inside. If you're outside, stay outside.
+
 - If you're indoors, stand against a wall near the center of the building, stand in a doorway, or crawl under heavy furniture (a desk or table). Stay away from windows and outside doors. 
-- Drop, cover, and hold. **drop** down onto your hands and knees before the earthquake knocks you down, **cover** your head and neck (and your entire body if possible) underneath a sturdy table or desk **hold** on to your shelter (or to your head and neck) until the shaking stops
-- If you're outdoors, stay in the open away from power lines or anything that might fall. Stay away from buildings (stuff might fall off the building or the building could fall on you). 
+
+- Drop, cover, and hold. **drop** down onto your hands and knees before the earthquake knocks you down, **cover** your head and neck (and your entire body if possible) underneath a sturdy table or desk **hold** on to your shelter (or to your head and neck) until the shaking stops.
+
+- If you're outdoors, stay in the open away from power lines or anything that might fall. Stay away from buildings (stuff might fall off the building or the building could fall on you.)
+
 - If you're in a car, stop the car and stay inside the car until the earthquake stops.
   
   ### What to do after an earthquake
   
 - Check yourself and others for injuries. Provide first aid for anyone who needs it.  
-- Check water, gas, and electric lines for damage. If any are damaged, shut off the valves. Check for the smell of gas. If you smell it, open all the       windows and doors, leave immediately, and report it to the authorities (use someone else's phone).  
+
+- Check water, gas, and electric lines for damage. If any are damaged, shut off the valves. Check for the smell of gas. If you smell it, open all the       windows and doors, leave immediately, and report it to the authorities (use someone else's phone.)  
+
 - Turn on the radio. Don't use the phone unless it's an emergency.
+
 - Stay out of damaged buildings.  
-- Be careful around broken glass and debris. Wear boots or sturdy shoes to keep from cutting your feet.  
+
+- Be careful around broken glass and debris. Wear boots or sturdy shoes to keep from cutting your feet. 
+
 - Be careful of chimneys (they may fall on you).  
+
 - Stay away from beaches. Tsunamis and seiches sometimes hit after the ground has stopped shaking.  
+
 - Stay away from damaged areas. 
+
 - If you're at school or work, follow the emergency plan or the instructions of the person in charge.
 Expect aftershocks.
 
 ### What NOT to do in an earthquake
 
-- DO NOT turn on the gas again if you turned it off; let the gas company do it
-- DO NOT use matches, lighters, camp stoves or barbecues, electrical equipment, appliances UNTIL you are sure there are no gas leaks. They may create spark that could ignite leaking gas and cause an explosion and fire
-- DO NOT use your telephone, EXCEPT for a medical or fire emergency. You could tie up the lines needed for emergency response. If the phone doesn't work send someone for help
+- DO NOT turn on the gas again if you turned it off; let the gas company do it.
+
+- DO NOT use matches, lighters, camp stoves or barbecues, electrical equipment, appliances UNTIL you are sure there are no gas leaks. They may create spark that could ignite leaking gas and cause an explosion and fire.
+
+- DO NOT use your telephone, EXCEPT for a medical or fire emergency. You could tie up the lines needed for emergency response. If the phone doesn't work send someone for help.
+
 - DO NOT expect firefighters, police or paramedics to help you. They may not be available.
+
 - DO NOT leave heavy objects on shelves (they'll fall during a quake).
 
 
