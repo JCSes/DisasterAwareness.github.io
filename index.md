@@ -46,7 +46,7 @@ Earthquake episodes trigger some immediate effects such as ground shaking, surfa
 
 - If you're indoors, stand against a wall near the center of the building, stand in a doorway, or crawl under heavy furniture (a desk or table). Stay away from windows and outside doors. 
 
-- Drop, cover, and hold. **drop** down onto your hands and knees before the earthquake knocks you down, **cover** your head and neck (and your entire body if possible) underneath a sturdy table or desk **hold** on to your shelter (or to your head and neck) until the shaking stops.
+- Drop, cover, and hold. **Drop** down onto your hands and knees before the earthquake knocks you down, **cover** your head and neck (and your entire body if possible) underneath a sturdy table or desk, **hold** on to your shelter (or to your head and neck) until the shaking stops.
 
 - If you're outdoors, stay in the open away from power lines or anything that might fall. Stay away from buildings (stuff might fall off the building or the building could fall on you.)
 
