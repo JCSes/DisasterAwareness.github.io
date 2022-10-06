@@ -2,7 +2,7 @@
  
 <img src="https://user-images.githubusercontent.com/99879325/194298268-fe999c30-6327-46ff-b565-4425f7affefd.jpeg" width="670" /> 
 
-This site will serve as a helpful tool in providing people with the crucial information of what to do and what not to do before, during, or after a natural disaster, but more specifically, during an **earthquake.
+This site will serve as a helpful tool in providing people with the crucial information of what to do and what not to do before, during, or after a natural disaster, but more specifically, during an **earthquake**.
 
 But before we dive straight into this topic, lets first, know what the what an earthquake is, what causes it and how do these affect us and/or our  environment both negatively and positively.
 
