@@ -92,8 +92,11 @@ Expect aftershocks.
 
 #### Sources:
 https://www.yonature.com/effects-earthquakes-positive-negative-impacts-with-examples/
+
 https://www.calacademy.org/explore-science/how-to-prepare-for-an-earthquake#:~:text=Earthquakes%20strike%20suddenly%2C%20violently%2C%20and,of%20life%20from%20an%20earthquake.
+
 https://www.usgs.gov/faqs/what-should-i-not-do-during-earthquake
+
 https://www.mtu.edu/geo/community/seismology/learn/earthquake-cause/#:~:text=Earthquakes%20are%20usually%20caused%20when,that%20make%20the%20ground%20shake.
 
  
